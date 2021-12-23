@@ -1,0 +1,6 @@
+{
+    "require": {
+        "luthier/luthier": "^1.0",
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
